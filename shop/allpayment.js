@@ -5,8 +5,6 @@ return `PAYMENT BY HomeAlone
 
 3. DANA
 	ㅁ 0857 7059 8246
-	
-Semuanya atas nama RI****DI
 
 *📲 PULSA*
 
