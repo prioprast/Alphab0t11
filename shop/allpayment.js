@@ -4,7 +4,7 @@ return `PAYMENT BY HomeAlone
 *💰 E-MONEY*
 
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0857 7059 8246
 	
 Semuanya atas nama RI****DI
 
