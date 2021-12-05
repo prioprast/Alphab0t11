@@ -1,15 +1,15 @@
 // jangan di ubah jika tidak punya group bot, takutnya eror
 const gcbotwa = () =>{
-	return`Join Aja Semua Fitur Bot Bisa Digunakan !
+	return` Khusus grup share link !!
 
-1. *Alphabot Support*
-_https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV_
-2. *Alphabot Support 2*
-_https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE_
-3. *Alphabot Support 3*
-_https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy_
-4. *Alphabot Support 4* 
-_https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU_
+1. *Grup Share Link 1✅*
+_https://chat.whatsapp.com/IoKpSLrxqjf3IFWJTLl80j_
+2. *GC Share Link 2✅*
+_https://chat.whatsapp.com/Iwnm8ylYR35BWotWLTPXVZ_
+3. *GC Share Link 3✅*
+_https://chat.whatsapp.com/HpU8Puy79PEGdKWfXdEjD7_
+4. *GC Share Link 4✅* 
+_https://chat.whatsapp.com/IfSY3EIKpCIAk26mDmjLlO_
 
 Jika ada link yang ke reset, silahkan hubungi
 owner untuk meminta link yang baru
